@@ -1,1 +1,4 @@
-# F55121076_Agym-Mahaputra-R.-B_TUGAS-KB
+# TUGAS KECERDASAN BUATAN (AI)
+
+Nama : Agym Mahaputra R. B
+NIM  : F55121076
